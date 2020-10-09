@@ -7,3 +7,6 @@ html, body {
 h1{
   font-size:40px;
 }
+p{
+  tab-size:100;
+}
